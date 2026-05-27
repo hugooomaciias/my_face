@@ -1,8 +1,8 @@
-# 🎨 CSS Art: Retrato Geométrico Personalizado
+# <img src="https://api.iconify.design/tabler/brush.svg?color=white" width="32" align="center"> CSS Art: Retrato Geométrico Personalizado
 
-![Preview del Retrato](enlace-a-tu-captura-de-pantalla.png) *(Nota: Reemplaza esto con una captura real de tu cara en CSS)*
+![Preview del Retrato](../assets/MYFACE.png)
 
-## 📖 Sobre el proyecto
+## <img src="https://api.iconify.design/tabler/device-desktop-code.svg?color=white" width="32" align="center"> Sobre el proyecto
 
 Este proyecto es un ejercicio avanzado de desarrollo Frontend que consiste en crear una ilustración de mi rostro utilizando **únicamente HTML y CSS puro**. 
 
@@ -10,7 +10,7 @@ No se han utilizado archivos de imagen externos (`.png`, `.jpg`) ni gráficos ve
 
 El objetivo es utilizar este arte CSS como elemento central para mi landing page y marca personal, garantizando un rendimiento óptimo y una buena escalabilidad sin pérdida de calidad.
 
-## ✨ Características destacadas
+## <img src="https://api.iconify.design/tabler/sparkles-2.svg?color=white" width="32" align="center"> Características destacadas
 
 * **100% Código Puro:** Renderizado nativo en el navegador sin recursos externos.
 * **Estilo Flat Design:** Estética limpia, geométrica y estructurada inspirada en el diseño de iconos modernos.
@@ -18,7 +18,7 @@ El objetivo es utilizar este arte CSS como elemento central para mi landing page
 * **Sistema de Variables (Custom Properties):** Paleta de colores centralizada para facilitar temas claros/oscuros o cambios de estilo rápidos.
 * **Textura Paramétrica:** Simulación de cabello rizado utilizando superposición de sombras e inyección de elementos.
 
-## 🛠️ Tecnologías utilizadas
+## <img src="https://api.iconify.design/tabler/tool.svg?color=white" width="32" align="center"> Tecnologías utilizadas
 
 * **HTML5:** Semántica y estructuración de las capas del dibujo.
 * **CSS3:**
@@ -28,10 +28,8 @@ El objetivo es utilizar este arte CSS como elemento central para mi landing page
   * `border-radius` avanzado (curvas elípticas y formas asimétricas)
   * Pseudo-elementos para reducir el anidamiento del DOM.
 
-## 🚀 Cómo ejecutar el proyecto
+## <img src="https://api.iconify.design/tabler/rocket.svg?color=white" width="32" align="center"> Cómo visualizar el proyecto
 
 Al ser código estático puro, no requiere de ningún entorno de servidor complejo ni dependencias de Node.js para visualizarse.
 
-1. Clona este repositorio:
-   ```bash
-   git clone [https://github.com/TU-USUARIO/tu-repositorio.git](https://github.com/TU-USUARIO/tu-repositorio.git)
+Puedes visualizarlo accediendo a [My Face](https://hugooomaciias.github.io/my_face/)
