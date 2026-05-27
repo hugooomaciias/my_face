@@ -1,6 +1,6 @@
 # <img src="https://api.iconify.design/tabler/brush.svg?color=white" width="32" align="center"> CSS Art: Retrato Geométrico Personalizado
 
-![Preview del Retrato](../assets/MYFACE.png)
+![Preview del Retrato](./assets/MYFACE.png)
 
 ## <img src="https://api.iconify.design/tabler/device-desktop-code.svg?color=white" width="32" align="center"> Sobre el proyecto
 
