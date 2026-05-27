@@ -1,3 +1,7 @@
+html, body {
+	background-color: #041517;
+}
+
 .cartoon {
 	position: absolute;
 	bottom: 0%;
@@ -5,6 +9,7 @@
 	transform: translate(-50%, 0);
 	width: 80vmin;
 	height: 80vmin;
+	overflow: hidden;
 }
 
 .cartoon div {
@@ -34,7 +39,7 @@
 	--hair: #533e2d;
 	--iris: #5d4536;
 	--line-face: #da8;
-	--shirt: #8b8c89;
+	--shirt: #59a8a2;
 }
 
 .head {
@@ -45,7 +50,7 @@
 	top: 10%;
 	left: 50%;
 	transform: translate(-50%, 0%);
-	box-shadow: -1vmin -7vmin var(--hair), 1vmin -7vmin var(--hair);
+	box-shadow: -1vmin -7vmin var(--hair), 1vmin -7vmin var(--hair), 0 2.5vmin 2vmin -1vmin rgba(0, 0, 0, 0.15);
 }
 
 .hair-top {
