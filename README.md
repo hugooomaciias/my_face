@@ -1,35 +1,34 @@
-# <img src="https://api.iconify.design/tabler/brush.svg?color=white" width="32" align="center"> CSS Art: Retrato Geométrico Personalizado
+# <img src="https://api.iconify.design/tabler/brush.svg?color=white" width="30" align="center"> CSS Art: Custom Geometric Self-Portrait
+
+<div align="center">
+   <strong>English</strong> | <a href="README.es.md">Español</a>
+</div>
 
 ![Preview del Retrato](./assets/MYFACE.png)
 
-## <img src="https://api.iconify.design/tabler/device-desktop-code.svg?color=white" width="32" align="center"> Sobre el proyecto
+## <img src="https://api.iconify.design/tabler/device-desktop-code.svg?color=white" width="30" align="center"> About project
 
-Este proyecto es un ejercicio avanzado de desarrollo Frontend que consiste en crear una ilustración de mi rostro utilizando **únicamente HTML y CSS puro**. 
+This project is an advanced Frontend development exercise focused on creating a geometric illustration of my face using only pure HTML and CSS.
 
-No se han utilizado archivos de imagen externos (`.png`, `.jpg`) ni gráficos vectoriales importados (`.svg`). Todo el diseño, las formas geométricas, los sombreados y los detalles anatómicos están construidos a base de matemáticas CSS: manipulando el DOM, anidando elementos `<div>` y aplicando un uso intensivo de propiedades como `box-shadow`, `border-radius` variables y pseudoelementos (`::before`, `::after`).
+No external image assets (.png, .jpg) or imported vector graphics (.svg) were used during the development process. Every visual element — including geometric shapes, shadows, and facial details — is entirely built through CSS mathematics by manipulating the DOM structure, nesting <div> elements, and extensively using properties such as box-shadow, border-radius, CSS custom properties, and pseudo-elements (::before, ::after).
 
-El objetivo es utilizar este arte CSS como elemento central para mi landing page y marca personal, garantizando un rendimiento óptimo y una buena escalabilidad sin pérdida de calidad.
+The main objective of this project is to use the CSS artwork as the central visual identity element for my personal landing page and branding, ensuring excellent performance, responsiveness, and scalability without any loss of visual quality.
 
-## <img src="https://api.iconify.design/tabler/sparkles-2.svg?color=white" width="32" align="center"> Características destacadas
+## <img src="https://api.iconify.design/tabler/sparkles-2.svg?color=white" width="30" align="center"> Main features
 
-* **100% Código Puro:** Renderizado nativo en el navegador sin recursos externos.
-* **Estilo Flat Design:** Estética limpia, geométrica y estructurada inspirada en el diseño de iconos modernos.
-* **Escalabilidad Perfecta:** El diseño utiliza unidades `vmin` para asegurar que el retrato sea completamente *responsive* y mantenga sus proporciones en cualquier tamaño de pantalla.
-* **Sistema de Variables (Custom Properties):** Paleta de colores centralizada para facilitar temas claros/oscuros o cambios de estilo rápidos.
-* **Textura Paramétrica:** Simulación de cabello rizado utilizando superposición de sombras e inyección de elementos.
+* **100% Pure Code:** Fully browser-rendered illustration without external graphical resources.
+* **Flat Design Style:** Clean, geometric, and structured aesthetic inspired by modern icon design systems.
+* **Perfect Scalability:** The portrait is built using vmin units to guarantee full responsiveness while preserving proportions across all screen sizes.
+* **CSS Variable System (Custom Properties):** Centralized color palette architecture for easier theme customization, including light/dark mode adaptations.
+* **Parametric Texture System:** Curly hair simulation achieved through layered shadows and procedural element composition.
 
-## <img src="https://api.iconify.design/tabler/tool.svg?color=white" width="32" align="center"> Tecnologías utilizadas
+## <img src="https://api.iconify.design/tabler/rocket.svg?color=white" width="30" align="center"> Live Demo
 
-* **HTML5:** Semántica y estructuración de las capas del dibujo.
-* **CSS3:**
-  * Custom Properties (Variables)
-  * Posicionamiento Absoluto
-  * `box-shadow` múltiple (para volúmenes y detalles sin añadir más HTML)
-  * `border-radius` avanzado (curvas elípticas y formas asimétricas)
-  * Pseudo-elementos para reducir el anidamiento del DOM.
+Since this is a fully static project, no complex server environment or Node.js dependencies are required to run it.
 
-## <img src="https://api.iconify.design/tabler/rocket.svg?color=white" width="32" align="center"> Cómo visualizar el proyecto
+You can view the project here: [My Face](https://hugooomaciias.github.io/my_face/)
 
-Al ser código estático puro, no requiere de ningún entorno de servidor complejo ni dependencias de Node.js para visualizarse.
+## <img src="https://api.iconify.design/tabler/tool.svg?color=white" width="30" align="center"> Technologies Used
 
-Puedes visualizarlo accediendo a [My Face](https://hugooomaciias.github.io/my_face/)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
